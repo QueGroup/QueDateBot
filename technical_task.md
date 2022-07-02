@@ -56,13 +56,11 @@
     - Язык Python
     - Фреймворк Django
     - БД PostgreSQL
-    - NoSQL Redis
     - Aiogram для интеграции с Telegram
 - Machine learning:
     - Язык Python
     - PyTorch
-    - CoreML
 - Мобильная разработка:
-    - Swift
+    - Dart + Flutter
 
 ## 4.1 Требование к дизайну
